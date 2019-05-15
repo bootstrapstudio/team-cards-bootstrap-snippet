@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Team cards snippet** made with Bootstrap 4. It is beautiful, fully responsive, and has a clean design that is super easy to customize. The card layout has place for your teammates' avatar photos, work titles, job descriptions, and social link icons via Font Awesome. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/team-cards)
+**Team cards snippet** made with Bootstrap 4. It is beautiful, fully responsive, and has a clean design that is super easy to customize. The card layout has place for your teammates' avatar photos, work titles, job descriptions, and social link icons via Font Awesome. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Team Cards](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/team-cards) 
+[![Team Cards](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
